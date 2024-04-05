@@ -1,1 +1,1 @@
- - [DEMO LINK](https://YarynaPuhach.github.io/Bang-Olufsen/)
+ - [DEMO LINK](https://YarynaPuhach.github.io/layout_miami/)
